@@ -12,4 +12,3 @@ class Solution:
 
 Sol = Solution()
 print(Sol.longestCommonPrefix(['dee', 'deep', 'deepak']))
-
