@@ -12,4 +12,4 @@ class Solution:
 
             prev = current
             current = nxt
-        return prev
+        return prev 
